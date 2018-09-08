@@ -19,6 +19,8 @@ AC220v Triac Driver for Microcontroller. Just Input 5v in INPUT in this circuit.
 
 https://easyeda.com/nazmul.shuvo2/AC220v-Triac-Driver-for-Microcontroller
 
+##Follow on Web: 
+http://nastec.66ghz.com/2018/09/08/ac-220v-triac-driver-for-microcontroller/
 
 HappY Electronics :D 
 
